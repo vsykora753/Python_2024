@@ -5,6 +5,15 @@
 		},
 		{
 			"path": "../Final_Project"
+		},
+		{
+			"path": "../BohemeTravel"
+		},
+		{
+			"path": "../Hra"
+		},
+		{
+			"path": "Python_algoritmy"
 		}
 	],
 	"settings": {}
